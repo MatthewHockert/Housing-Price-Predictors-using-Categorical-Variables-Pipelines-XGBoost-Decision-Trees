@@ -1,0 +1,2 @@
+# Housing-Price-Predictors-using-Categorical-Variables-Pipelines-XGBoost-Decision-Trees
+This repository is built off of the ML training course on Kaggle. The data I use in this repository is mine and is pulled from an API. It is built from the Decision Trees MN Housing Price Predictor Repository. The Data in this repository is slightly altered to work with missing values and categorical variables.  Here is what I have learned from the course:  1. missing values categorical variables 2. pipelines 3. cross-validation 4. XGBoost
